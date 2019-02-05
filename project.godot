@@ -110,4 +110,7 @@ ui_end={
 
 [rendering]
 
+quality/driver/driver_name="GLES2"
+quality/intended_usage/framebuffer_allocation=1
+quality/intended_usage/framebuffer_allocation.mobile=1
 environment/default_clear_color=Color( 0.2, 0.2, 0.2, 0.2 )
